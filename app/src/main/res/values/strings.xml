@@ -1,0 +1,1996 @@
+<resources>
+    <string name="app_name">FIFA 2018</string>
+    <string name="fifa_fixtures">Fifa Fixtures</string>
+    <string name="football_groups">Groups</string>
+    <string name="football_teams">Teams</string>
+    <string name="group_details_title">Fifa World Cup 2018 Groups</string>
+    <string name="group_a">Group A</string>
+    <string name="a1">A1.</string>
+    <string name="egypt">Egypt</string>
+    <string name="a2">A2.</string>
+    <string name="russia">Russia</string>
+    <string name="a3">A3.</string>
+    <string name="saudi_arabia">Saudi-Arabia</string>
+    <string name="a4">A4.</string>
+    <string name="uruguay">Uruguay</string>
+    <string name="group_b">Group B</string>
+    <string name="b1">B1.</string>
+    <string name="portugal">Portugal</string>
+    <string name="b2">B2.</string>
+    <string name="spain">Spain</string>
+    <string name="b3">B3.</string>
+    <string name="morocco">Morocco</string>
+    <string name="b4">B4.</string>
+    <string name="iran">Iran</string>
+    <string name="group_c">Group C</string>
+    <string name="c1">C1.</string>
+    <string name="france">France</string>
+    <string name="c2">C2.</string>
+    <string name="australia">Australia</string>
+    <string name="c3">C3.</string>
+    <string name="peru">Peru</string>
+    <string name="c4">C4.</string>
+    <string name="denmark">Denmark</string>
+    <string name="group_d">Group D</string>
+    <string name="d1">D1.</string>
+    <string name="argentina">Argentina</string>
+    <string name="d2">D2.</string>
+    <string name="iceland">Iceland</string>
+    <string name="d3">D3.</string>
+    <string name="croatia">Croatia</string>
+    <string name="d4">D4.</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="group_e">Group E</string>
+    <string name="e1">E1.</string>
+    <string name="brizil">Brizil</string>
+    <string name="e2">E2.</string>
+    <string name="switzerland">Switzerland</string>
+    <string name="e3">E3.</string>
+    <string name="costa_rica">Costa Rica</string>
+    <string name="e4">E4.</string>
+    <string name="serbia">Serbia</string>
+    <string name="group_f">Group F</string>
+    <string name="f1">F1.</string>
+    <string name="germany">Germany</string>
+    <string name="f2">F2.</string>
+    <string name="mexico">Mexico</string>
+    <string name="f3">F3.</string>
+    <string name="sweden">Sweden</string>
+    <string name="f4">F4.</string>
+    <string name="south_korea">South Korea</string>
+    <string name="group_g">Group G</string>
+    <string name="g1">G1.</string>
+    <string name="england">England</string>
+    <string name="g2">G2.</string>
+    <string name="belgium">Belgium</string>
+    <string name="g3">G3.</string>
+    <string name="panama">Panama</string>
+    <string name="g4">G4.</string>
+    <string name="tunisia">Tunisia</string>
+    <string name="group_h">Group H</string>
+    <string name="h1">H1.</string>
+    <string name="poland">Poland</string>
+    <string name="h2">H2.</string>
+    <string name="senegal">Senegal</string>
+    <string name="h3">H3.</string>
+    <string name="colombia">Colombia</string>
+    <string name="h4">H4.</string>
+    <string name="japan">Japan</string>
+    <string name="player_details">Team\'s Palyer Details</string>
+    <string name="fifa_world_cup_russia_2018">FIFA WORLD CUP RUSSIA 2018</string>
+    <string name="sample_test">Sample Test</string>
+    <string name="share_with">Share With</string>
+    <string name="aleart_title">Thank You ..!</string>
+    <string name="alert_mes">Do you really want to exit ?</string>
+    <string name="about_tatile">Fifa World Cup 2018</string>
+    <string name="developer_info">Developed By, Bespoke Software BD\nApp Version : 1.0</string>
+    <string name="x">X</string>
+    <string name="sample_year">Sample Year</string>
+    <string name="left_flag">Left Flag</string>
+    <string name="right_flag">Right Flag</string>
+    <string name="maracana">Estadio do Maracana</string>
+    <string name="gva">Germany VS Argentina (1&#8211;0)</string>
+    <string name="svn">Spain VS Netherlands (1&#8211;0)</string>
+    <string name="ivf">Italy VS France (5&#8211;3)</string>
+    <string name="bvg">Brazil VS Germany (2&#8211;0)</string>
+    <string name="fvb">France VS Brazil (3&#8211;0)</string>
+    <string name="bvi">Brazil VS Italy (3&#8211;2)</string>
+    <string name="gca">West Germany VS Argentina (1&#8211;0)</string>
+    <string name="avw">Argentina VS West Germany (3&#8211;2)</string>
+    <string name="ivg">Italy VS West Germany (3&#8211;1)</string>
+    <string name="avn">Argentina VS Netherlands (3&#8211;1)</string>
+    <string name="wvn">West Germany VS Netherlands (4&#8211;1)</string>
+    <string name="evg">England VS West Germany (4&#8211;2)</string>
+    <string name="bvc">Brazil VS Czechoslovakia (3&#8211;1)</string>
+    <string name="bvs">Brazil VS Sweden (5&#8211;2)</string>
+    <string name="gbh">West Germany VS Hungary (3&#8211;2)</string>
+    <string name="uvb">Uruguay VS Brazil (2&#8211;1)</string>
+    <string name="ivh">Italy VS Hungary (4&#8211;2)</string>
+    <string name="ivc">Italy VS Czechoslovakia (2&#8211;1)</string>
+    <string name="uva">Uruguay VS Argentina (4&#8211;2)</string>
+
+    <string name="fifa1">1930</string>
+    <string name="fifa2">1934</string>
+    <string name="fifa_3">1938</string>
+    <string name="fifa_4">1950</string>
+    <string name="fifa5">1954</string>
+    <string name="fifa6">1958</string>
+    <string name="fifa7">1962</string>
+    <string name="fifa9">1966</string>
+    <string name="fifa10">1970</string>
+    <string name="fifa11">1974</string>
+    <string name="fifa12">1978</string>
+    <string name="fifa13">1982</string>
+    <string name="fifa14">1986</string>
+    <string name="fofa15">1990</string>
+    <string name="fofa16">1994</string>
+    <string name="fifa17">1998</string>
+    <string name="fifa18">2002</string>
+    <string name="fifa19">2006</string>
+    <string name="fifa20">2010</string>
+    <string name="fifa21">2014</string>
+
+    <string name="w_uruguay">Uruguay</string>
+    <string name="w_italy">Italy</string>
+    <string name="w_west_germany">West Germany</string>
+    <string name="w_brazil">Brazil</string>
+    <string name="w_england">England</string>
+    <string name="w_argentina">Argentina</string>
+    <string name="w_france">France</string>
+    <string name="w_spain">Spain</string>
+    <string name="w_germany">Germany</string>
+
+    <string name="match1">Russia VS Saudi Arabia</string>
+    <string name="match2">Egypt VS Uruguay</string>
+    <string name="match3">Morocco VS Iran</string>
+    <string name="match4">Portugal VS Spain</string>
+    <string name="match5">France VS Australia</string>
+    <string name="march6">Argentina VS Iceland</string>
+    <string name="match7">Peru VS Danmark</string>
+    <string name="match8">Croatia VS Nigeria</string>
+    <string name="match9">Costa Rica VS Serbia</string>
+    <string name="match10">Germany VS Mexico</string>
+    <string name="match11">Brazil VS Switzerland</string>
+    <string name="match12">Sweden VS South Korea</string>
+    <string name="match13">Belgium VS Panama</string>
+    <string name="match14">Tunisia VS England</string>
+    <string name="march15">Colombia VS Japan</string>
+    <string name="match16">Poland VS Senegal</string>
+    <string name="match17">Russia VS Egypt</string>
+    <string name="match18">Portugal VS Morocco</string>
+    <string name="match19">Uruguay VS Saudi Arabia</string>
+    <string name="match20">Iran VS Spain</string>
+    <string name="march21">Denmark VS Australia</string>
+    <string name="match22">France VS Peru</string>
+    <string name="match23">Atgentina VS Croatia</string>
+    <string name="match24">Brazil VS Costa Rica</string>
+    <string name="match25">Nigeria VS Iceland</string>
+    <string name="match26">Serbia VS Switzerland</string>
+    <string name="match27">Belgium VS Tunisia</string>
+    <string name="match28">South Korea VS Mexico</string>
+    <string name="match29">Germany VS Sweden</string>
+    <string name="match30">England VS Panama</string>
+    <string name="match31">Japan VS Senegal</string>
+    <string name="match32">Poland VS Colombia</string>
+    <string name="match33">Saudi Arabia VS Egypt</string>
+    <string name="match34">Uruguay VS Russia</string>
+    <string name="match35">Iran VS Portugal</string>
+    <string name="match36">Spain VS Morocco</string>
+    <string name="match37">Australia VS Peru</string>
+    <string name="match38">Denmark VS France</string>
+    <string name="match39">Nigeria VS Argentina</string>
+    <string name="match40">Iceland VS Croatia</string>
+    <string name="match41">South Korea VS Germany</string>
+    <string name="match42">Maxico VS Sweden</string>
+    <string name="match43">Switzerland VS Costa Rica</string>
+    <string name="match44">Serbia VS Brazil</string>
+    <string name="match45">Senegal VS Colombia</string>
+    <string name="match46">Japan VS Poland</string>
+    <string name="match47">England VS Belgium</string>
+    <string name="match48">Panama VS Tunisia</string>
+    <string name="match49">Winner Group(A) VS Runner Up Group(B)</string>
+    <string name="match50">Winner Group(C) VS Runner Up Group(D)</string>
+    <string name="match51">Winner Group(A) VS Runner Up Group(B)</string>
+    <string name="match52">Winner Group(D) VS Runner Up Group(C)</string>
+    <string name="match53">Winner Group(E) VS Runner Up Group(F)</string>
+    <string name="match54">Winner Group(G) VS Runner Up Group(H)</string>
+    <string name="match55">Winner Group(F) VS Runner Up Group(E)</string>
+    <string name="match56">Winner Group(H) VS Runner Up Group(G)</string>
+    <string name="match57">Winner of Match(49) VS Winner of Match(50)</string>
+    <string name="match58">Winner of Match(53) VS Winner of Match(54)</string>
+    <string name="match59">Winner of Match(55) VS Winner of Match(56)</string>
+    <string name="match60">Winner of Match(51) VS Winner of Match(52)</string>
+    <string name="match61">Winner of Match(57) VS Winner of Match(58)</string>
+    <string name="match62">Winner of Match(59) VS Winner of Match(60)</string>
+    <string name="match63">Lossers of Two semi finals</string>
+    <string name="match64">Winners of Two semi finals</string>
+    <string name="image">image</string>
+    <string name="close">close</string>
+    <string name="rassia_vs_saudi_arabia">Rassia VS Saudi Arabia</string>
+    <string name="menu">Main Menu</string>
+    <string name="rate_app">Rate App</string>
+    <string name="about_us">About Us</string>
+    <string name="exit">Exit</string>
+    <string name="app_share">Share</string>
+    <string name="app_title">FIFA 2018</string>
+    <string name="settings">Settings</string>
+
+    <string-array name="home_features">
+        <item>FIXTURES</item>
+        <item>GROUPS DETAILS</item>
+        <item>TEAMS INFO</item>
+        <item>PLAYERS DETAILS</item>
+        <item>THIS FIFA</item>
+        <item>STADIUM INFO</item>
+        <item>FIFA NEWS</item>
+        <item>FIFA HISTORY</item>
+    </string-array>
+
+    <string-array name="team_names">
+        <item>Russia</item>
+        <item>Germany</item>
+        <item>Brazil</item>
+        <item>Iran</item>
+        <item>Japan</item>
+        <item>Mexico</item>
+        <item>Belgium</item>
+        <item>South Korea</item>
+        <item>Saudi Arabia</item>
+        <item>England</item>
+        <item>Spain</item>
+        <item>Nigeria</item>
+        <item>Egypt</item>
+        <item>Senegal</item>
+        <item>Costa Rica</item>
+        <item>Poland</item>
+        <item>Iceland</item>
+        <item>Serbia</item>
+        <item>Portugal</item>
+        <item>France</item>
+        <item>Uruguay</item>
+        <item>Argentina</item>
+        <item>Colombia</item>
+        <item>Panama</item>
+        <item>Switzerland</item>
+        <item>Croatia</item>
+        <item>Sweden</item>
+        <item>Denmark</item>
+        <item>Tunisia</item>
+        <item>Morocco</item>
+        <item>Australia</item>
+        <item>Peru</item>
+    </string-array>
+    <string-array name="team_palyers_name">
+        <item>
+            Details Player\'s Information of Russia\n\n
+            No1. Igor Akinfeev\n
+            Club : CSKA Moscow\n
+            Age : 31\n
+            Position : GK
+            \n\n
+            No2. Vladimir Gabulov\n
+            Club : Brugge\n
+            Age : 34\n
+            Position : GK
+            \n\n
+            No3. Andrey Lunyov\n
+            Club : Zenit Saint Petersburg\n
+            Age : 26\n
+            Position : GK
+            \n\n
+            No4. Yuri Zhirkov\n
+            Club : Zenit Saint Petersburg\n
+            Age : 34\n
+            Position : Defender
+            \n\n
+            No5. Dmitri Kombarov\n
+            Club : Spartak Moscow\n
+            Age : 31\n
+            Position : Defender
+            \n\n
+            No6. Igor Smolnikov\n
+            Club : Zenit Saint Petersburg\n
+            Age : 29\n
+            Position : Defender
+            \n\n
+            No7. Vladislav Ignatyev\n
+            Club : Lokomotiv Moscow\n
+            Age : 31\n
+            Position : Defender
+            \n\n
+            No8. 	Konstantin Rausch\n
+            Club : Fenerbahçe\n
+            Age : 30\n
+            Position : Defender
+            \n\n
+            No9.Ilya Kutepov\n
+            Club : Spartak Moscow\n
+            Age : 24\n
+            Position : Defender
+            \n\n
+            No10. Viktor Vasin\n
+            Club : CSKA Moscow\n
+            Age : 29\n
+            Position : Defender
+            \n\n
+            No11. Georgi Dzhikiya\n
+            Club : SSpartak Moscow\n
+            Age : 24\n
+            Position : Defender
+            \n\n
+            No12. Magomed Ozdoyev\n
+            Club : Zenit Saint Petersburg\n
+            Age : 25\n
+            Position : Midfielder
+            \n\n
+            No13. Dmitri Tarasov\n
+            Club : Lokomotiv Moscow\n
+            Age : 30\n
+            Position : Midfielder
+            \n\n
+            No14. Denis Glushakov\n
+            Club : Spartak Moscow\n
+            Age : 31\n
+            Position : Midfielder
+            \n\n
+            No15. Alan Dzagoev\n
+            Club : CSKA Moscow\n
+            Age : 27\n
+            Position : Midfielder
+            \n\n
+            No16.Aleksandr Golovin\n
+            Club : Spartak Moscow\n
+            Age : 33\n
+            Position : Midfielder
+            \n\n
+            No17. Aleksandr Golovin\n
+            Club : CSKA Moscow\n
+            Age : 21\n
+            Position : Midfielder
+            \n\n
+            No18. Aleksandr Yerokhin\n
+            Club : West Ham United\n
+            Age : 28\n
+            Position : Midfielder
+            \n\n
+            No19. Aleksandr Kokorin\n
+            Club : Zenit Saint Petersburg\n
+            Age : 26\n
+            Position : Forward
+            \n\n
+            No20. Fyodor Smolov\n
+            Club : Krasnodar\n
+            Age : 28\n
+            Position : Forward
+            \n\n
+            No21. Aleksei Miranchuk\n
+            Club : Lokomotiv Moscow\n
+            Age : 22\n
+            Position : Forward
+            \n\n
+            No22. Artem Dzyuba\n
+            Club : Arsenal Tula\n
+            Age : 34\n
+            Position : Forward
+            \n\n
+            No23. No Details\n
+            Club : No Details\n
+            Age : No Details\n
+            Position : No Details
+            \n\nNOTICE : No announcement yet made by the Russain football federation
+            about the palyers selection. Actual player info will be availabled in between
+            10-20 May. Check for Updates.
+        </item>
+
+        <item>
+            Details Player\'s Information of Germany\n\n
+            No1. Manuel Neuer\n
+            Club : Bayern Munich\n
+            Age : 31\n
+            Position : GK
+            \n\n
+            No2. Marc-André ter Stegen\n
+            Club : Barcelona\n
+            Age : 25\n
+            Position : GK
+            \n\n
+            No3. Bernd Leno\n
+            Club : Bayer Leverkusen\n
+            Age : 25\n
+            Position : GK
+            \n\n
+            No4. Niklas Süle\n
+            Club : Bayern Munich\n
+            Age : 22\n
+            Position : Defender
+            \n\n
+            No5. Mats Hummels\n
+            Club : Bayern Munich\n
+            Age : 29\n
+            Position : Defender
+            \n\n
+            No6. Antonio Rüdiger\n
+            Club : Cheslea\n
+            Age : 25\n
+            Position : Defender
+            \n\n
+            No7. Joshua Kimmich\n
+            Club : PSG\n
+            Age : 23\n
+            Position : Defender
+            \n\n
+            No8. Matthias Ginter\n
+            Club : Bayer Leverkusen\n
+            Age : 24\n
+            Position : Defender
+            \n\n
+            No9. Jérôme Boateng\n
+            Club : Bayern Munich\n
+            Age : 29\n
+            Position : Defender
+            \n\n
+            No10. Shkodran Mustafi\n
+            Club : Arsenal\n
+            Age : 25\n
+            Position : Defender
+            \n\n
+            No11. Jonas Hector\n
+            Club : Koln\n
+            Age : 27\n
+            Position : Defender
+            \n\n
+            No12. Julian Draxler\n
+            Club : PSG\n
+            Age : 24\n
+            Position : Midfielder
+            \n\n
+            No13. Toni Kroos\n
+            Club : Real Madrid\n
+            Age : 28\n
+            Position : Midfielder
+            \n\n
+            No14. Mesut Özil\n
+            Club : Arsenal\n
+            Age : 29\n
+            Position : Midfielder
+            \n\n
+            No15. Mario Götze\n
+            Club : Dortmund\n
+            Age : 25\n
+            Position : Midfielder
+            \n\n
+            No16. Julian Brandt\n
+            Club : Bayer Leverkusen\n
+            Age : 21\n
+            Position : Midfielder
+            \n\n
+            No17. Leroy Sané\n
+            Club : Manchester City\n
+            Age : 22\n
+            Position : Midfielder
+            \n\n
+            No18. İlkay Gündoğan\n
+            Club : Manchester City\n
+            Age : 37\n
+            Position : Midfielder
+            \n\n
+            No19. André Schürrle\n
+            Club : Dortmund\n
+            Age : 27\n
+            Position : Forward
+            \n\n
+            No20. Thomas Müller\n
+            Club : Bayern Munich\n
+            Age : 28\n
+            Position : Forward
+            \n\n
+            No21. Sandro Wagner\n
+            Club : 	Bayern Munich\n
+            Age : 30\n
+            Position : Forward
+            \n\n
+            No22. Timo Werner\n
+            Club : RB Leipzig\n
+            Age : 21\n
+            Position : Forward
+            \n\n
+            No23. No Details\n
+            Club : No Details\n
+            Age : No Details\n
+            Position : No Details
+            \n\nNOTICE : No announcement yet made by the Germany football federation
+            about the palyers selection. Actual player info will be availabled in between
+            10-20 May. Check for Updates.
+        </item>
+
+        <item>
+           Details Player\'s Information of Brazil\n\n
+            No1. Alisson\n
+            Club : Roma\n
+            Age : 25\n
+            Position : GK
+            \n\n
+            No2. Ederson\n
+            Club : Manchester City\n
+            Age : 24\n
+            Position : GK
+            \n\n
+            No3. Diego Alves\n
+            Club : Flamengo\n
+            Age : 32\n
+            Position : GK
+            \n\n
+            No4. Dani Alves\n
+            Club : PSG\n
+            Age : 34\n
+            Position : Defender
+            \n\n
+            No5. Thiago Silva\n
+            Club : PSG\n
+            Age : 33\n
+            Position : Defender
+            \n\n
+            No6.Marcelo\n
+            Club : Real Madrid\n
+            Age : 29\n
+            Position : Defender
+            \n\n
+            No7. Miranda\n
+            Club : Inter Milan\n
+            Age : 33\n
+            Position : Defender
+            \n\n
+            No8. Marquinhos\n
+            Club : PSG\n
+            Age : 23\n
+            Position : Defender
+            \n\n
+            No9. Alex Sandro\n
+            Club : Juventus\n
+            Age : 27\n
+            Position : Defender
+            \n\n
+            No10. Danilo\n
+            Club : Manchester City\n
+            Age : 26\n
+            Position : Defender
+            \n\n
+            No11. David Luiz\n
+            Club : Chelsea\n
+            Age : 30\n
+            Position : Defender
+            \n\n
+            No12. Willian\n
+            Club : Chelsea\n
+            Age : 29\n
+            Position : Midfielder
+            \n\n
+            No13. Paulinho\n
+            Club : Barcelona\n
+            Age : 29\n
+            Position : Midfielder
+            \n\n
+            No14. Lucas Lima\n
+            Club : Palmeiras\n
+            Age : 27\n
+            Position : Midfielder
+            \n\n
+            No15.Casemiro\n
+            Club : Real Madrid\n
+            Age : 26\n
+            Position : Midfielder
+            \n\n
+            No16. Philippe Coutinho\n
+            Club : Barcelona\n
+            Age : 25\n
+            Position : Midfielder
+            \n\n
+            No17. Fred\n
+            Club : Shakhtar Donetsk\n
+            Age : 25\n
+            Position : Midfielder
+            \n\n
+            No18. Giuliano\n
+            Club : Fenerbahçe\n
+            Age : 26\n
+            Position : Midfielder
+            \n\n
+            No19. Neymar\n
+            Club : PSG\n
+            Age : 26\n
+            Position : Forward
+            \n\n
+            No20. Douglas Costa\n
+            Club : Juventus\n
+            Age : 27\n
+            Position : Forward
+            \n\n
+            No21. Roberto Firmino\n
+            Club : 	Liverpool\n
+            Age : 26\n
+            Position : Forward
+            \n\n
+            No22. Gabriel Jesus\n
+            Club : Manchester City\n
+            Age : 20\n
+            Position : Forward
+            \n\n
+            No23. No Details\n
+            Club : No Details\n
+            Age : No Details\n
+            Position : No Details
+            \n\nNOTICE : No announcement yet made by the Brazil football federation
+            about the palyers selection. Actual player info will be availabled in between
+            10-20 May. Check for Updates.
+        </item>
+
+        <item>
+            Details Player\'s Information of Iran\n\n
+            Yet Not published\n
+            Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Japan\n\n
+            Yet Not published\n
+           Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Maxico\n\n
+            Yet Not published\n
+           Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Belgium\n\n
+            No1. Thibaut Courtois\n
+            Club : Chelsea\n
+            Age : 25\n
+            Position : GK
+            \n\n
+            No2.Simon Mignolet\n
+            Club : Liverpool\n
+            Age : 30\n
+            Position : GK
+            \n\n
+            No3. Koen Casteels\n
+            Club : Wolfsburg\n
+            Age : 25\n
+            Position : GK
+            \n\n
+            No4. Jan Vertonghen\n
+            Club : Tottenham\n
+            Age : 30\n
+            Position : Defender
+            \n\n
+            No5. Thomas Vermaelen\n
+            Club : Barcelona\n
+            Age : 32\n
+            Position : Defender
+            \n\n
+            No6. Thomas Meunier\n
+            Club : PSG\n
+            Age : 26\n
+            Position : Defender
+            \n\n
+            No7. Jordan Lukaku\n
+            Club : Lazio\n
+            Age : 23\n
+            Position : Defender
+            \n\n
+            No8. Toby Alderweireld\n
+            Club : Tottenham\n
+            Age : 29\n
+            Position : Defender
+            \n\n
+            No9. Thomas Foket\n
+            Club : Gent\n
+            Age : 23\n
+            Position : Defender
+            \n\n
+            No10. Leander Dendoncker\n
+            Club : CSKA Moscow\n
+            Age : 22\n
+            Position : Defender
+            \n\n
+            No11. Christian Kabasele\n
+            Club : Anderlecht\n
+            Age : 27\n
+            Position : Defender
+            \n\n
+            No12. Adnan Januzaj\n
+            Club : Watford\n
+            Age : 23\n
+            Position : Midfielder
+            \n\n
+            No13. Youri Tielemans\n
+            Club : Monaco\n
+            Age : 20\n
+            Position : Midfielder
+            \n\n
+            No14. Axel Witsel\n
+            Club : Tianjin Quanjian\n
+            Age : 29\n
+            Position : Midfielder
+            \n\n
+            No15.Eden Hazard\n
+            Club : Chelsea\n
+            Age : 27\n
+            Position : Midfielder
+            \n\n
+            No16. Nacer Chadli\n
+            Club : West Bromwhich\n
+            Age : 29\n
+            Position : Midfielder
+            \n\n
+            No17. Steven Defour\n
+            Club : Burnley\n
+            Age : 28\n
+            Position : Midfielder
+            \n\n
+            No18. Kevin De Bruyne\n
+            Club : Manchester City\n
+            Age : 26\n
+            Position : Midfielder
+            \n\n
+            No19. Romelu Lukaku\n
+            Club : Manchester United\n
+            Age : 24\n
+            Position : Forward
+            \n\n
+            No20. Dries Mertens\n
+            Club : Napoli\n
+            Age : 30\n
+            Position : Forward
+            \n\n
+            No21. Divock Origi\n
+            Club : 	Wolfsburg\n
+            Age : 22\n
+            Position : Forward
+            \n\n
+            No22. Laurent Depoitre\n
+            Club : Huddersfield Town\n
+            Age : 29\n
+            Position : Forward
+            \n\n
+            No23. No Details\n
+            Club : No Details\n
+            Age : No Details\n
+            Position : No Details
+            \n\nNOTICE : No announcement yet made by the Belgium football federation
+            about the palyers selection. Actual player info will be availabled in between
+            10-20 May. Check for Updates.
+        </item>
+
+        <item>
+           Details Player\'s Information of South Korea\n\n
+            Yet Not published\n
+           Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Saudi Arabia\n\n
+            Yet Not published\n
+            Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+           Details Player\'s Information of England\n\n
+            No1. Thibaut Courtois\n
+            Club : Chelsea\n
+            Age : 25\n
+            Position : GK
+            \n\n
+            No2.Simon Mignolet\n
+            Club : Liverpool\n
+            Age : 30\n
+            Position : GK
+            \n\n
+            No3. Koen Casteels\n
+            Club : Wolfsburg\n
+            Age : 25\n
+            Position : GK
+            \n\n
+            No4. Jan Vertonghen\n
+            Club : Tottenham\n
+            Age : 30\n
+            Position : Defender
+            \n\n
+            No5. Thomas Vermaelen\n
+            Club : Barcelona\n
+            Age : 32\n
+            Position : Defender
+            \n\n
+            No6. Thomas Meunier\n
+            Club : PSG\n
+            Age : 26\n
+            Position : Defender
+            \n\n
+            No7. Jordan Lukaku\n
+            Club : Lazio\n
+            Age : 23\n
+            Position : Defender
+            \n\n
+            No8. Toby Alderweireld\n
+            Club : Tottenham\n
+            Age : 29\n
+            Position : Defender
+            \n\n
+            No9. Thomas Foket\n
+            Club : Gent\n
+            Age : 23\n
+            Position : Defender
+            \n\n
+            No10. Leander Dendoncker\n
+            Club : CSKA Moscow\n
+            Age : 22\n
+            Position : Defender
+            \n\n
+            No11. Christian Kabasele\n
+            Club : Anderlecht\n
+            Age : 27\n
+            Position : Defender
+            \n\n
+            No12. Adnan Januzaj\n
+            Club : Watford\n
+            Age : 23\n
+            Position : Midfielder
+            \n\n
+            No13. Youri Tielemans\n
+            Club : Monaco\n
+            Age : 20\n
+            Position : Midfielder
+            \n\n
+            No14. Axel Witsel\n
+            Club : Tianjin Quanjian\n
+            Age : 29\n
+            Position : Midfielder
+            \n\n
+            No15.Eden Hazard\n
+            Club : Chelsea\n
+            Age : 27\n
+            Position : Midfielder
+            \n\n
+            No16. Nacer Chadli\n
+            Club : West Bromwhich\n
+            Age : 29\n
+            Position : Midfielder
+            \n\n
+            No17. Steven Defour\n
+            Club : Burnley\n
+            Age : 28\n
+            Position : Midfielder
+            \n\n
+            No18. Kevin De Bruyne\n
+            Club : Manchester City\n
+            Age : 26\n
+            Position : Midfielder
+            \n\n
+            No19. Romelu Lukaku\n
+            Club : Manchester United\n
+            Age : 24\n
+            Position : Forward
+            \n\n
+            No20. Dries Mertens\n
+            Club : Napoli\n
+            Age : 30\n
+            Position : Forward
+            \n\n
+            No21. Divock Origi\n
+            Club : 	Wolfsburg\n
+            Age : 22\n
+            Position : Forward
+            \n\n
+            No22. Laurent Depoitre\n
+            Club : Huddersfield Town\n
+            Age : 29\n
+            Position : Forward
+            \n\n
+            No23. No Details\n
+            Club : No Details\n
+            Age : No Details\n
+            Position : No Details
+            \n\nNOTICE : No announcement yet made by the England football federation
+            about the palyers selection. Actual player info will be availabled in between
+            10-20 May. Check for Updates.
+        </item>
+
+        <item>
+            Details Player\'s Information of Spain\n\n
+            No1. David de Gea\n
+            Club : Manchester United\n
+            Age : 27\n
+            Position : GK
+            \n\n
+            No2. Pepe Reina\n
+            Club : Napoli\n
+            Age : 31\n
+            Position : GK
+            \n\n
+            No3. Sergio Rico\n
+            Club : Sevilla\n
+            Age : 24\n
+            Position : GK
+            \n\n
+            No4. Gerard Piqué\n
+            Club : Barcelona\n
+            Age : 31\n
+            Position : Defender
+            \n\n
+            No5. Sergio Ramos\n
+            Club : Real Madrid\n
+            Age : 31\n
+            Position : Defender
+            \n\n
+            No6. Jordi Alba\n
+            Club : Barcelona\n
+            Age : 28\n
+            Position : Defender
+            \n\n
+            No7. Marc Bartra\n
+            Club : Betis\n
+            Age : 27\n
+            Position : Defender
+            \n\n
+            No8. Nacho\n
+            Club : Real Madrid\n
+            Age : 28\n
+            Position : Defender
+            \n\n
+            No9. Dani Carvajal\n
+            Club : Real Madrid\n
+            Age : 28\n
+            Position : Defender
+            \n\n
+            No10. César Azpilicueta\n
+            Club : Chelsea\n
+            Age : 26\n
+            Position : Defender
+            \n\n
+            No11. Javi Martínez\n
+            Club : Bayern Munich\n
+            Age : 29\n
+            Position : Defender
+            \n\n
+            No12. Sergio Busquets\n
+            Club : Barcelona\n
+            Age : 29\n
+            Position : Midfielder
+            \n\n
+            No13. Andrés Iniesta\n
+            Club : Barcelona\n
+            Age : 33\n
+            Position : Midfielder
+            \n\n
+            No14. Thiago Alcantara\n
+            Club : Bayern Munich\n
+            Age : 26\n
+            Position : Midfielder
+            \n\n
+            No15.David Silva\n
+            Club : Manchester City\n
+            Age : 32\n
+            Position : Midfielder
+            \n\n
+            No16. Marco Asensio\n
+            Club : Real Madrid\n
+            Age : 22\n
+            Position : Midfielder
+            \n\n
+            No17. Isco\n
+            Club : Real Madrid\n
+            Age : 25\n
+            Position : Midfielder
+            \n\n
+            No18. Koke\n
+            Club : Atlético Madrid\n
+            Age : 26\n
+            Position : Midfielder
+            \n\n
+            No19. Susu\n
+            Club : AC Milan\n
+            Age : 23\n
+            Position : Forward
+            \n\n
+            No20. Pedro\n
+            Club : Chelsea\n
+            Age : 30\n
+            Position : Forward
+            \n\n
+            No21. Álvaro Morata\n
+            Club : 	Chelsea\n
+            Age : 25\n
+            Position : Forward
+            \n\n
+            No22. Diego Costa\n
+            Club : Atletico Madrid\n
+            Age : 29\n
+            Position : Forward
+            \n\n
+            No23. No Details\n
+            Club : No Details\n
+            Age : No Details\n
+            Position : No Details
+            \n\nNOTICE : No announcement yet made by the Spain football federation
+            about the palyers selection. Actual player info will be availabled in between
+            10-20 May. Check for Updates.
+        </item>
+
+        <item>
+            Details Player\'s Information of Nigeria\n\n
+            Yet Not published\n
+            Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Egypt\n\n
+            Yet Not published\n
+             Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Senegal\n\n
+            Yet Not published\n
+             Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Costa Rica\n\n
+            Yet Not published\n
+             Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Poland\n\n
+            Yet Not published\n
+            Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Iceland\n\n
+            Yet Not published\n
+             Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Serbia\n\n
+            Yet Not published\n
+             Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Portugal\n\n
+            No1. Rui Patrício\n
+            Club : Sporting CP\n
+            Age : 32\n
+            Position : GK
+            \n\n
+            No2.Anthony Lopes\n
+            Club : Lyon\n
+            Age : 27\n
+            Position : GK
+            \n\n
+            No3. José Sá\n
+            Club : FC Porto\n
+            Age : 30\n
+            Position : GK
+            \n\n
+            No4. Nélson Semedo\n
+            Club : Barcelona\n
+            Age : 24\n
+            Position : Defender
+            \n\n
+            No5. Pepe\n
+            Club : Beşiktaş\n
+            Age : 35\n
+            Position : Defender
+            \n\n
+            No6. Luís Neto\n
+            Club : Fenerbahçe\n
+            Age : 29\n
+            Position : Defender
+            \n\n
+            No7. Vitorino Antunes\n
+            Club : Getafe\n
+            Age : 30\n
+            Position : Defender
+            \n\n
+            No8. Cédric Soares\n
+            Club : Southampton\n
+            Age : 26\n
+            Position : Defender
+            \n\n
+            No9. Raphaël Guerreiro\n
+            Club : Borussia Dortmund\n
+            Age : 24\n
+            Position : Defender
+            \n\n
+            No10. João Cancelo\n
+            Club : Inter Milan\n
+            Age : 23\n
+            Position : Defender
+            \n\n
+            No11. Ricardo Pereira\n
+            Club : FC Porto\n
+            Age : 24\n
+            Position : Defender
+            \n\n
+            No12. Rúben Neves\n
+            Club : Wolverhampton\n
+            Age : 20\n
+            Position : Midfielder
+            \n\n
+            No13. Bernardo Silva\n
+            Club : Manchester City\n
+            Age : 25\n
+            Position : Midfielder
+            \n\n
+            No14. João Moutinho\n
+            Club : AS Monaco\n
+            Age : 30\n
+            Position : Midfielder
+            \n\n
+            No15.André Gomes\n
+            Club : Barcelona\n
+            Age : 24\n
+            Position : Midfielder
+            \n\n
+            No16. Danilo Pereira\n
+            Club : FC Porto\n
+            Age : 26\n
+            Position : Midfielder
+            \n\n
+            No17. Manuel Fernandes\n
+            Club : Lokomotiv Moscow\n
+            Age : 32\n
+            Position : Midfielder
+            \n\n
+            No18. João Mário\n
+            Club : West Ham United\n
+            Age : 25\n
+            Position : Midfielder
+            \n\n
+            No19. André Silva\n
+            Club : AC Milan\n
+            Age : 22\n
+            Position : Forward
+            \n\n
+            No20. Gonçalo Guedes\n
+            Club : Valencia\n
+            Age : 21\n
+            Position : Forward
+            \n\n
+            No21. Cristiano Ronaldo\n
+            Club : 	Real Madrid\n
+            Age : 33\n
+            Position : Forward
+            \n\n
+            No22. Nani\n
+            Club : Lazio\n
+            Age : 31\n
+            Position : Forward
+            \n\n
+            No23. No Details\n
+            Club : No Details\n
+            Age : No Details\n
+            Position : No Details
+            \n\nNOTICE : No announcement yet made by the Portugal football federation
+            about the palyers selection. Actual player info will be availabled in between
+            10-20 May. Check for Updates.
+        </item>
+
+        <item>
+            Details Player\'s Information of France\n\n
+            No1. Hugo Lloris\n
+            Club : Tottenham\n
+            Age : 32\n
+            Position : GK
+            \n\n
+            No2.Steve Mandanda\n
+            Club : Marseille\n
+            Age : 31\n
+            Position : GK
+            \n\n
+            No3. Alphonse Areola\n
+            Club : PSG\n
+            Age : 25\n
+            Position : GK
+            \n\n
+            No4. Layvin Kurzawa\n
+            Club : PSG\n
+            Age : 25\n
+            Position : Defender
+            \n\n
+            No5. Lucas Digne\n
+            Club : Barcelona\n
+            Age : 29\n
+            Position : Defender
+            \n\n
+            No6. Samuel Umtiti\n
+            Club : Barcelona\n
+            Age : 24\n
+            Position : Defender
+            \n\n
+            No7. Raphaël Varane\n
+            Club : PSG\n
+            Age : 24\n
+            Position : Defender
+            \n\n
+            No8. Laurent Koscielny\n
+            Club : Arsenal\n
+            Age : 32\n
+            Position : Defender
+            \n\n
+            No9. Kurt Zouma\n
+            Club : Stoke City\n
+            Age : 29\n
+            Position : Defender
+            \n\n
+            No10. Adil Rami\n
+            Club : Marseille\n
+            Age : 32\n
+            Position : Defender
+            \n\n
+            No11. Djibril Sidibé\n
+            Club : Monaco\n
+            Age : 25\n
+            Position : Defender
+            \n\n
+            No12. Julian Draxler\n
+            Club : PSG\n
+            Age : 24\n
+            Position : Midfielder
+            \n\n
+            No13. Blaise Matuidi\n
+            Club : Juventus\n
+            Age : 30\n
+            Position : Midfielder
+            \n\n
+            No14. Moussa Sissoko\n
+            Club : Tottenham\n
+            Age : 28\n
+            Position : Midfielder
+            \n\n
+            No15.Paul Pogba\n
+            Club : Manchester United\n
+            Age : 24\n
+            Position : Midfielder
+            \n\n
+            No16. N’Golo Kanté\n
+            Club : Chelsea\n
+            Age : 26\n
+            Position : Midfielder
+            \n\n
+            No17. Ousman Dembele\n
+            Club : Barcelona\n
+            Age : 21\n
+            Position : Midfielder
+            \n\n
+            No18. Adrien Rabiot\n
+            Club : PSG\n
+            Age : 22\n
+            Position : Midfielder
+            \n\n
+            No19. Antoine Griezmann\n
+            Club : Atletico Madrid\n
+            Age : 26\n
+            Position : Forward
+            \n\n
+            No20. Kylian Mbappé\n
+            Club : PSG\n
+            Age : 19\n
+            Position : Forward
+            \n\n
+            No21. Anthony Martial\n
+            Club : 	Manchester United\n
+            Age : 22\n
+            Position : Forward
+            \n\n
+            No22. Olivier Giroud\n
+            Club : Arsenal\n
+            Age : 31\n
+            Position : Forward
+            \n\n
+            No23. No Details\n
+            Club : No Details\n
+            Age : No Details\n
+            Position : No Details
+            \n\nNOTICE : No announcement yet made by the France football federation
+            about the palyers selection. Actual player info will be availabled in between
+            10-20 May. Check for Updates.
+        </item>
+
+        <item>
+            Details Player\'s Information of Uruguay\n\n
+            No1. Fernando Muslera\n
+            Club : Galatasaray\n
+            Age : 31\n
+            Position : GK
+            \n\n
+            No2. Vasco da Gama\n
+            Club : Liverpool\n
+            Age : 34\n
+            Position : GK
+            \n\n
+            No3. Martín Campaña\n
+            Club : Independiente\n
+            Age : 28\n
+            Position : GK
+            \n\n
+            No4. Federico Ricca\n
+            Club : Malaga\n
+            Age : 24\n
+            Position : Defender
+            \n\n
+            No5. Guillermo Varela\n
+            Club : Peñarol\n
+            Age : 24\n
+            Position : Defender
+            \n\n
+            No6. Gastón Silva\n
+            Club : Independiente\n
+            Age : 24\n
+            Position : Defender
+            \n\n
+            No7. Sebastián Coates\n
+            Club : Sporting CP\n
+            Age : 27\n
+            Position : Defender
+            \n\n
+            No8. José María Giménez\n
+            Club : Atletico Madrid\n
+            Age : 24\n
+            Position : Defender
+            \n\n
+            No9. Martín Cáceres\n
+            Club : Lazio\n
+            Age : 30\n
+            Position : Defender
+            \n\n
+            No10. Diego Godín\n
+            Club : Atletico Madrid\n
+            Age : 32\n
+            Position : Defender
+            \n\n
+            No11. Maxi Pereira\n
+            Club : FC Porto\n
+            Age : 33\n
+            Position : Defender
+            \n\n
+            No12. Matías Vecino\n
+            Club : inter Milan\n
+            Age : 26\n
+            Position : Midfielder
+            \n\n
+            No13. 	Nahitan Nández\n
+            Club : Boca Juniors\n
+            Age : 22\n
+            Position : Midfielder
+            \n\n
+            No14. Rodrigo Bentancur\n
+            Club : Juventus\n
+            Age : 20\n
+            Position : Midfielder
+            \n\n
+            No15. Gastón Pereiro\n
+            Club : PSV\n
+            Age : 22\n
+            Position : Midfielder
+            \n\n
+            No16. Nicolás Lodeiro\n
+            Club : Seattle Sounders\n
+            Age : 28\n
+            Position : Midfielder
+            \n\n
+            No17. Gastón Ramírez\n
+            Club : Sampadoria\n
+            Age : 27\n
+            Position : Midfielder
+            \n\n
+            No18. Cristian Rodríguez\n
+            Club : Penarol\n
+            Age : 32\n
+            Position : Midfielder
+            \n\n
+            No19. Edinson Cavani\n
+            Club : PSG\n
+            Age : 31\n
+            Position : Forward
+            \n\n
+            No20. Luis Suarez\n
+            Club : Barcelona\n
+            Age : 31\n
+            Position : Forward
+            \n\n
+            No21. Abel Hernández\n
+            Club : 	Hull City\n
+            Age : 27\n
+            Position : Forward
+            \n\n
+            No22. Maxi Gómez\n
+            Club : Celta\n
+            Age : 21\n
+            Position : Forward
+            \n\n
+            No23. No Details\n
+            Club : No Details\n
+            Age : No Details\n
+            Position : No Details
+            \n\nNOTICE : No announcement yet made by the Uruguay football federation
+            about the palyers selection. Actual player info will be availabled in between
+            10-20 May. Check for Updates.
+        </item>
+
+        <item>
+            Details Player\'s Information of Argentina \n\n
+            No1. Sergio Romero\n
+            Club : Manchester United\n
+            Position : GK
+            \n\n
+            No2. Nahuel Guzman\n
+            Club : Tigres UANL\n
+            Position : GK
+            \n\n
+            No3. Geronimo Rulli\n
+            Club : Real Sociedad\n
+            Position : GK
+            \n\n
+            No4. Gabriel Mercado\n
+            Club : Sevilla\n
+            Position : Full Back
+            \n\n
+            No5. Nicolás Tagliafico\n
+            Club : Ajax\n
+            Position : Full Back
+            \n\n
+            No6. Marcus Rojo\n
+            Club : Manchester United\n
+            Position : Full Back
+            \n\n
+            No7. Emmanuel Mas\n
+            Club : Trabzonspor\n
+            Position : Full Back
+            \n\n
+            No8. Nicolas Otamendi\n
+            Club : Manchester City\n
+            Position : Defender
+            \n\n
+            No9. Ramiro Funes Mori\n
+            Club : Everton\n
+            Position : Defender
+            \n\n
+            No10. Mateo Musacchio\n
+            Club : AC Milan\n
+            Position : Defender
+            \n\n
+            No11. Federico Fazio\n
+            Club : AS Roma\n
+            Position : Defender
+            \n\n
+            No12. Javier Mascherano\n
+            Position : Midfielder
+            \n\n
+            No13. Lucas Biglia\n
+            Club : AC Milan\n
+            Position : Midfielder
+            \n\n
+            No14. Ever Banega\n
+            Club : Sevilla\n
+            Position : Midfielder
+            \n\n
+            No15. Leandro Paredes\n
+            Club : Zenit\n
+            Position : Midfielder
+            \n\n
+            No16. Angel Di Maria\n
+            Club : PSG\n
+            Position : Midfielder
+            \n\n
+            No17. Eduardo Salvio\n
+            Club : Benfica\n
+            Position : Midfielder
+            \n\n
+            No18. Lionel Messi\n
+            Club : Barcelona\n
+            Position : Midfielder
+            \n\n
+            No19. R	Paulo Dybala\n
+            Club : Juventus\n
+            Position : Forward
+            \n\n
+            No20. Gonzalo Higuain\n
+            Club : Juventus\n
+            Position : Forward
+            \n\n
+            No21. Sergio Aguero\n
+            Club : 	Manchester City	\n
+            Position : Forward
+            \n\n
+            No22. Angel Correa\n
+            Club : Atletico Madrid\n
+            Position : Forward
+            \n\n
+            No23. No Details\n
+            Club : No Details\n
+            Position : No Details
+            \n\nNOTICE : No announcement yet made by the Argentina football federation
+            about the palyers selection. Actual player info will be availabled in between
+            10-20 May. Check for Updates.
+        </item>
+
+        <item>
+            Details Player\'s Information of Colombia\n\n
+            Yet Not published\n
+             Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Panama\n\n
+            Yet Not published\n
+             Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+           Details Player\'s Information of Switzerland\n\n
+            Yet Not published\n
+             Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Croatia\n\n
+            Yet Not published\n
+             Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Sweden\n\n
+            No1. Karl-Johan Johnsson\n
+            Club : Guingamp\n
+            Age : 28\n
+            Position : GK
+            \n\n
+            No2. Kristoffer Nordfeldt\n
+            Club : Swansea City\n
+            Age : 38\n
+            Position : GK
+            \n\n
+            No3. Robin Olsen\n
+            Club : Copenhagen\n
+            Age : 27\n
+            Position : GK
+            \n\n
+            No4. Mikael Lustig\n
+            Club : Celtic\n
+            Age : 31\n
+            Position : Defender
+            \n\n
+            No5. Victor Lindelöf\n
+            Club : Manchester United\n
+            Age : 23\n
+            Position : Defender
+            \n\n
+            No6. Andreas Granqvist \n
+            Club : Krasondar\n
+            Age : 32\n
+            Position : Defender
+            \n\n
+            No7. Martin Olsson\n
+            Club : Swansea City\n
+            Age : 29\n
+            Position : Defender
+            \n\n
+            No8. Ludwig Augustinsson\n
+            Club : Werder Bremen\n
+            Age : 23\n
+            Position : Defender
+            \n\n
+            No9. 	Pontus Jansson\n
+            Club : Leeds United\n
+            Age : 27\n
+            Position : Defender
+            \n\n
+            No10. Emil Krafth\n
+            Club : Bologna\n
+            Age : 23\n
+            Position : Defender
+            \n\n
+            No11. Linus Wahlqvist\n
+            Club : IFK Norrköping\n
+            Age : 21\n
+            Position : Defender
+            \n\n
+            No12. Sebastian Larsson\n
+            Club : Hull City\n
+            Age : 32\n
+            Position : Midfielder
+            \n\n
+            No13. Oscar Lewicki\n
+            Club : Malmö FF\n
+            Age : 25\n
+            Position : Midfielder
+            \n\n
+            No14. Emil Forsberg\n
+            Club : RB Lepizig\n
+            Age : 26\n
+            Position : Midfielder
+            \n\n
+            No15. Oscar Hiljemark\n
+            Club : Genoa\n
+            Age : 25\n
+            Position : Midfielder
+            \n\n
+            No16. Jakob Johansson\n
+            Club : AEK Athens\n
+            Age : 27\n
+            Position : Midfielder
+            \n\n
+            No17. Jimmy Durmaz\n
+            Club : Tolouse\n
+            Age : 21\n
+            Position : Midfielder
+            \n\n
+            No18. Albin Ekdal\n
+            Club : Hamburger SV\n
+            Age : 28\n
+            Position : Midfielder
+            \n\n
+            No19. Marcus Berg\n
+            Club : Al Ain\n
+            Age : 31\n
+            Position : Forward
+            \n\n
+            No20. Ola Toivonen\n
+            Club : Tolouse\n
+            Age : 31\n
+            Position : Forward
+            \n\n
+            No21. John Guidetti\n
+            Club : 	Alves\n
+            Age : 25\n
+            Position : Forward
+            \n\n
+            No22. Isaac Kiese Thelin\n
+            Club : Waasland-Beveren\n
+            Age : 25\n
+            Position : Forward
+            \n\n
+            No23. No Details\n
+            Club : No Details\n
+            Age : No Details\n
+            Position : No Details
+            \n\nNOTICE : No announcement yet made by the Sweden football federation
+            about the palyers selection. Actual player info will be availabled in between
+            10-20 May. Check for Updates.
+        </item>
+
+        <item>
+            Details Player\'s Information of Denmark \n\n
+            Yet Not published\n
+            Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+           Details Player\'s Information of Tunisia\n\n
+            Yet Not published\n
+            Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+            Details Player\'s Information of Morocco\n\n
+            Yet Not published\n
+             Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+           Details Player\'s Information of Australia\n\n
+            Yet Not published\n
+             Available on Application Update. Thanks, Stay with Us.
+        </item>
+
+        <item>
+           Details Player\'s Information of Peru\n\n
+            Yet Not published\n
+             Available on Application Update. Thanks, Stay with Us.
+        </item>
+    </string-array>
+
+    <string name="in_numbers">Russia World Cup 2018</string>
+    <string name="fifa_details">
+        Teams: 32\n
+        Playing venues: 12\n
+        Matches: 65\n
+        \n
+        Opening match: Luzhniki Stadium\n
+        Final: Luzhniki Stadium\n
+        \n
+        Average venue capacity: 49,300 seats\n
+        Largest venue: Luzhniki Stadium (81,000 seats)\n
+        Smallest venue: Kaliningrad Stadium (35,212 seats)\n
+        Average no. of matches per venue: 5.33\n
+    </string>
+
+    <string name="stadium">Moscow Stadium 1</string>
+    <string name="Matches1">
+        Luzhniki Stadium | Capacity: 80,000 seats | Opening: 1956\n
+        Matches:\n
+        14 June 2018 18:00 – Russia vs Saudi Arabia – Group A\n
+        17 June 2018 18:00 – Germany vs Mexico – Group F\n
+        20 June 2018 15:00 – Portugal vs Morocco – Group B\n
+        26 June 2018 17:00 – Denmark vs France – Group C\n
+        1 July 2018 17:00 – 1B vs 2A – Round of 16\n
+        11 July 2018 21:00 – W59 vs W60 – Semi Final\n
+        15 July 2018 18:00 – W61 vs W62 – Final
+    </string>
+
+    <string name="stadium2">Saint Petersburg 2</string>
+    <string name="Matches2">
+        Saint Petersburg Stadium | Capacity: 67,000 seats | Opening: 2017\n
+        Matches:\n
+        15 June 2018 17:00 – Morocco vs Iran – Group B\n
+        19 June 2018 21:00 – Russia vs Egypt – Group A\n
+        22 June 2018 15:00 – Brazil vs Costa Rica – Group E\n
+        26 June 2018 21:00 – Nigeria vs Argentina – Group D\n
+        3 July 2018 17:00 – 1F vs 2E – Round of 16\n
+        10 July 2018 21:00 – W57 vs W58 – Semi Final\n
+        14 July 2018 17:00 – L61 vs L62 – Third Place\n
+    </string>
+
+    <string name="stadium3">Sochi 3</string>
+    <string name="Matches3">
+        Fisht Stadium | Capacity: 48,000 seats | Opening: 2013\n
+        Matches:\n
+        15 June 2018 21:00 – Portugal vs Spain – Group B\n
+        18 June 2018 18:00 – Belgium vs Panama – Group G\n
+        23 June 2018 18:00 – Germany vs Sweden – Group F\n
+        26 June 2018 17:00 – Australia vs Peru – Group C\n
+        30 June 2018 21:00 – 1A vs 2B – Round of 16\n
+        7 July 2018 21:00 – W51 vs W52 – Quarter Final\n
+    </string>
+
+    <string name="stadium4">Ekaterinburg 4</string>
+    <string name="Matches4">
+        Ekaterinburg Arena | Capacity: 45,000 seats | Scheduled opening: late 2017 | Status: under construction\n
+        Matches:\n
+        15 June 2018 17:00 – Egypt vs Uruguay – Group A\n
+        21 June 2018 17:00 – France vs Peru – Group C\n
+        24 June 2018 20:00 – Japan vs Senegal – Group H\n
+        27 June 2018 19:00 – Mexico vs Sweden – Group F\n
+    </string>
+
+    <string name="stadium5">Kazan 5</string>
+    <string name="Matches5">
+        Kazan Arena | Capacity: 45,000 seats | Opening: 2013\n
+        Matches:\n
+        16 June 2018 13:00 – France vs Australia – Group C\n
+        20 June 2018 21:00 – Iran vs Spain – Group B\n
+        24 June 2018 21:00 – Poland vs Colombia – Group H\n
+        27 June 2018 17:00 – Korea Republic vs Germany – Group F\n
+        30 June 2018 17:00 – 1C vs 2D – Round of 16\n
+        6 July 2018 21:00 – W53 vs W54 – Quarter Final\n
+    </string>
+
+    <string name="stadium6">Nizhny Novgorod 6</string>
+    <string name="Matches6">
+        Nizhny Novgorod Stadium | Capacity: 45,000 seats | Opening: 2017 | Status: under construction\n
+        Matches:\n
+        18 June 2018 15:00 – Sweden vs Korea Republic – Group F\n
+        21 June 2018 21:00 – Argentina vs Croatia – Group D\n
+        24 June 2018 15:00 – England vs Panama – Group G\n
+        27 June 2018 21:00 – Switzerland vs Costa Rica – Group E\n
+        1 July 2018 21:00 – 1D vs 2C – Round of 16\n
+        6 July 2018 17:00 – W49 vs W50 – Quarter Final\n
+    </string>
+
+    <string name="stadium7">Rostov-on-Don 7</string>
+    <string name="Matches7">
+        Rostov Arena | Capacity: 45,000 seats | Opening: 2017 | Status: under construction\n
+        Matches:\n
+        17 June 2018 21:00 – Brazil vs Switzerland – Group E\n
+        20 June 2018 18:00 – Uruguay vs Saudi Arabia – Group A\n
+        23 June 2018 21:00 – Korea Republic vs Mexico – Group F\n
+        26 June 2018 21:00 – Iceland vs Croatia – Group D\n
+        2 July 2018 21:00 – 1G vs 2H – Round of 16\n
+    </string>
+
+    <string name="stadium8">Samara 8</string>
+    <string name="Matches8">
+        Samara Arena | Capacity: 45,000 seats | Opening: 2017 | Status: under construction\n
+        Matches:\n
+        17 June 2018 16:00 – Costa Rica vs Serbia – Group E\n
+        21 June 2018 19:00 – Denmark vs Australia – Group C\n
+        25 June 2018 18:00 – Uruguay vs Russia – Group A\n
+        28 June 2018 18:00 – Senegal vs Colombia – Group H\n
+        2 July 2018 18:00 – 1E vs 2F – Round of 16\n
+        7 July 2018 18:00 – W55 vs W56 – Quarter Final\n
+    </string>
+
+    <string name="stadium9">Saransk 9</string>
+    <string name="Matches9">
+        Mordovia Arena | Capacity: 45,000 seats | Opening: 2017 | Status: under construction\n
+        Matches:\n
+        16 June 2018 19:00 – Peru vs Denmark – Group C\n
+        19 June 2018 18:00 – Colombia vs Japan – Group H\n
+        25 June 2018 21:00 – Iran vs Portugal – Group B\n
+        28 June 2018 21:00 – Panama vs Tunisia – Group G\n
+    </string>
+
+    <string name="stadium10">Volgograd 10</string>
+    <string name="Matches10">
+        Volgograd Stadium | Capacity: 45,000 seats | Opening: 2017 | Status: under construction\n
+        Matches:\n
+        18 June 2018 21:00 – Tunisia vs England – Group G\n
+        22 June 2018 18:00 – Nigeria vs Iceland – Group D\n
+        25 June 2018 17:00 – Saudi Arabia vs Egypt – Group A\n
+        28 June 2018 17:00 – Japan vs Poland – Group H\n
+    </string>
+
+    <string name="stadium11">Moscow 11</string>
+    <string name="Matches11">
+        Spartak Stadium | Capacity: 42,000 seats | Opening: 2014\n
+        Matches:\n
+        16 June 2018 16:00 – Argentina vs Iceland – Group D\n
+        19 June 2018 15:00 – Poland vs Senegal – Group H\n
+        23 June 2018 15:00 – Belgium vs Tunisia – Group B\n
+        26 June 2018 17:00 – Serbia vs Brazil – Group C\n
+        3 July 2018 21:00 – 1H vs 2G – Round of 16\n
+    </string>
+
+    <string name="stadium12">Kaliningrad 12</string>
+    <string name="Matches12">
+        Kaliningrad Stadium | Capacity: 35,212 seats | Opening: 2017 | Status: under construction\n
+        Matches:\n
+        16 June 2018 21:00 – Croatia vs Nigeria – Group D\n
+        22 June 2018 20:00 – Serbia vs Switzerland – Group E\n
+        25 June 2018 20:00 – Spain vs Morocco – Group B\n
+        28 June 2018 20:00 – England vs Belgium – Group G\n
+    </string>
+    <string name="africa">Africa</string>
+    <string name="one">01</string>
+    <string name="two">02</string>
+    <string name="three">03</string>
+    <string name="four">04</string>
+    <string name="asia">Asia</string>
+    <string name="five">05</string>
+    <string name="six">06</string>
+    <string name="seven">07</string>
+    <string name="eight">08</string>
+    <string name="nine">09</string>
+    <string name="ten">10</string>
+    <string name="europe">Europe</string>
+    <string name="eleven">11</string>
+    <string name="twelve">12</string>
+    <string name="thirten">13</string>
+    <string name="fortin">14</string>
+    <string name="fivten">15</string>
+    <string name="sixten">16</string>
+    <string name="seventin">17</string>
+    <string name="eighten">18</string>
+    <string name="nineten">19</string>
+    <string name="twente">20</string>
+    <string name="twentione">21</string>
+    <string name="twotow">22</string>
+    <string name="twethree">23</string>
+    <string name="twofour">24</string>
+    <string name="south_america">South America</string>
+    <string name="twofive">25</string>
+    <string name="twosix">26</string>
+    <string name="twoseven">27</string>
+    <string name="north_america">North America</string>
+    <string name="twoeight">28</string>
+    <string name="twonine">29</string>
+    <string name="threeziro">30</string>
+    <string name="threeone">31</string>
+    <string name="threetwo">32</string>
+
+
+    <string name="Luzhniki_Stadium">
+      Luzhniki Stadium
+    </string>
+    <string name="luzhniki_Details">
+        Name : Luzhniki Stadium\n
+        city : Moscow\n
+        Capacity : 81 006 seats\n
+        Country	 : Russia\n
+        Opening : 1956\n
+        Construction : 28/11/2013 - 08/06/2017
+    </string>
+    <string name="saint_Details">
+        Name : Saint petersburg Stadium\n
+        city : Saint Petersburg\n
+        Capacity : 56,196 seats\n
+        Country	 : Russia\n
+        Opening : April 2017\n
+        Increased Capicity : 68,000 seats
+    </string>
+    <string name="fisht_details">
+        Name : Fisht Stadium\n
+        city : Sochi\n
+        Capacity : 48,000 seats\n
+        Country	 : Russia\n
+        Opening : 2013
+    </string>
+    <string name="ekaterinburg_details">
+        Name : Ekaterinburg Arena\n
+        city : Ekaterinburg\n
+        Capacity : 45,000 seats\n
+        Country	 : Russia\n
+        Opening : 1957\n
+        Construction : 1953 to 1957
+    </string>
+    <string name="kazan_details">
+        Name : Kazan Arena\n
+        city : Kazan\n
+        Capacity : 45,000 seats\n
+        Country	 : Russia\n
+        Opening : 2013\n
+        Construction : May 2010 to 2013
+    </string>
+    <string name="nizhny_details">
+        Name : Nizhny Novgorod Stadium\n
+        city : Nizhny Novgorod\n
+        Capacity : 45,000 seats\n
+        Country	 : Russia\n
+        Opening : 2017\n
+        Construction : 2017
+    </string>
+    <string name="rostov_details">
+        Name : Rostov-on-Don\n
+        city : Rostov Arena\n
+        Capacity : 45,000 seats\n
+        Country	 : Russia\n
+        Opening : 2017\n
+        Construction : Under Construction
+    </string>
+    <string name="samara_details">
+        Name : Samara Arena\n
+        city : Samara\n
+        Capacity : 45,000 seats\n
+        Country	 : Russia\n
+        Opening : 2017\n
+        Construction : Under Construction
+    </string>
+    <string name="saransk_details">
+        Name : Mordovia Arena\n
+        city : Saransk\n
+        Capacity : 45,000 seats\n
+        Country	 : Russia\n
+        Opening : 2017\n
+        Construction : Under Construction
+    </string>
+    <string name="volgograd_details">
+        Name : Volgograd Stadium\n
+        city : Volgograd\n
+        Capacity : 45,000 seats\n
+        Country	 : Russia\n
+        Opening : 2017\n
+        Construction : Under Construction
+    </string>
+    <string name="moscow_2_details">
+        Name : Spartak Stadium\n
+        city : Moscow\n
+        Capacity : 42,000 seats\n
+        Country	 : Russia\n
+        Opening : 2014\n
+    </string>
+    <string name="kaliningrad_details">
+        Name : Kaliningrad Stadium\n
+        city : Kaliningrad\n
+        Capacity : 42,000 seats\n
+        Country	 : Russia\n
+        Opening : 2017\n
+        Construction : Under Construction
+    </string>
+    <string name="tab_on_image_for_details">Tab on Image for details</string>
+    <string name="saint_petersburg_stadium">Saint Petersburg Stadium</string>
+    <string name="fisht_stadium">Fisht Stadium</string>
+    <string name="ekaterinburg_arena">Ekaterinburg Arena</string>
+    <string name="kazan_arena">Kazan Arena</string>
+    <string name="nizhny_novgorod_stadium">Nizhny Novgorod Stadium</string>
+    <string name="rostov_on_don">Rostov-on-Don</string>
+    <string name="samara_arena">Samara Arena</string>
+    <string name="mordovia_arena">Mordovia Arena</string>
+    <string name="volgograd_stadium">Volgograd Stadium</string>
+    <string name="spartak_stadium">Spartak Stadium</string>
+    <string name="kaliningrad_stadium">Kaliningrad Stadium</string>
+</resources>

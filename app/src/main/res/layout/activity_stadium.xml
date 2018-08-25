@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="5dp"
+    android:layout_height="match_parent"
+    tools:context=".StadiumActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:layout_height="match_parent">
+            <!--Luzhniki Stadium 1-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tab_on_image_for_details"
+                android:textSize="12sp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:onClick="luzhnikiInfo"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/moscow1" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Luzhniki_Stadium"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:onClick="saint"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/saintpetersburg2" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/saint_petersburg_stadium"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:onClick="fisht"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/sochi3" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/fisht_stadium"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:onClick="ekaterinburg"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ekaterinburg4" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/ekaterinburg_arena"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:onClick="kazan"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/kazan5" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/kazan_arena"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:onClick="nizhny"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/nizhny_novgorod6" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/nizhny_novgorod_stadium"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:onClick="rostov"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/rostov_on_don7" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rostov_on_don"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:onClick="samara"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/samara8" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/samara_arena"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:onClick="saransh"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/saransk9" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/mordovia_arena"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:onClick="volgograd"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/volgograd10" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/volgograd_stadium"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:onClick="moscowNew"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/moscow11" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/spartak_stadium"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:onClick="kalini"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/kaliningrad12" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/kaliningrad_stadium"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp"
+                android:textStyle="bold"
+                />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:layout_marginTop="5dp"
+    android:background="@drawable/custom_border_deep_blue"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/flag_one"
+        android:layout_width="0dp"
+        android:contentDescription="@string/image"
+        android:layout_height="wrap_content"
+        android:layout_weight=".4"
+        android:src="@drawable/unknown_offwhite"/>
+    <TextView
+        android:id="@+id/worldCupDetailsTV"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@color/color_white"
+        android:layout_height="wrap_content"
+        android:text="@string/rassia_vs_saudi_arabia"/>
+    <ImageView
+        android:id="@+id/flag_two"
+        android:layout_width="0dp"
+        android:contentDescription="@string/image"
+        android:layout_height="wrap_content"
+        android:layout_weight=".4"
+        android:src="@drawable/unknown_offwhite"/>
+
+</LinearLayout>

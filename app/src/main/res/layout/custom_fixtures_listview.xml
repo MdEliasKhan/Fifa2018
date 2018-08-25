@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@drawable/custom_border"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:layout_marginTop="5dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/leftFalg"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight=".4"
+        android:src="@drawable/flag_russia_small"/>
+
+    <TextView
+        android:id="@+id/matchDetails"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@color/color_white"
+        android:layout_height="wrap_content"
+        android:text="Rassia VS Saudi Arabia"/>
+    <ImageView
+        android:id="@+id/rightFlag"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight=".4"
+        android:src="@drawable/flag_saudi_arabia_small"/>
+</LinearLayout>

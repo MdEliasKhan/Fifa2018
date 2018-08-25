@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="400dp"
+    android:orientation="vertical"
+    android:background="@drawable/custom_border"
+    android:padding="5dp"
+    android:layout_gravity="center">
+    <TextView
+        android:id="@+id/txtCloseID"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:textColor="@color/color_white"
+        android:text="@string/x"
+        android:contentDescription="@string/close"
+        android:textStyle="bold"
+        android:layout_gravity="end"
+        android:gravity="center"
+        android:background="@drawable/cercle_background"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:contentDescription="@string/image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/about_app"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/about_tatile"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:layout_marginBottom="5dp"
+            android:textColor="@color/color_white"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="@color/color_white"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:text="@string/developer_info"/>
+    </LinearLayout>
+
+
+</LinearLayout>
